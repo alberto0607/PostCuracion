@@ -31,11 +31,12 @@ with open('salida.txt', 'w') as file:
 #### Post #{contador}
 
 ---
+
 {image_url}
 
 ---
 
-#### Post #{contador}
+
 
 [{title}]({url})
 by @{username}
