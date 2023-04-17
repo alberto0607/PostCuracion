@@ -20,4 +20,3 @@ Y finalmente ejecutamos el script
 
 <code>python main.py</code>
 
-Para más detalles ir a post: 
