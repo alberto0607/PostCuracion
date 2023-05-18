@@ -12,6 +12,10 @@ Instalamos las biblotecas necesarias para ejecutar el scritp
 
 <code>pip install -r requirements.txt</code>
 
+Ejecuta el siguiente comando para generar el archivo requirements.txt:
+
+<code>pip freeze > requirements.txt</code>
+
 Activamos el entorno virtual
 
 <code>source env/bin/activate</code>
